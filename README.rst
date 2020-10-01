@@ -48,7 +48,7 @@ Usage
 
 	-u, --stay-under
 
-	Stay under the start url. Only those urls that have the start url as prefix will be crawled. Useful, for example, to crawl an album or a subsection on a website.
+	Stays under the start url. Only those urls that have the start url as prefix will be crawled. Useful, for example, to crawl an album or a subsection on a website.
 
 	``imagebot crawl http://website.com/albums/new -u``
 
